@@ -24,6 +24,8 @@ You can achieve this by adding the following to your project's `composer.json`:
     ]
 }
 ```
+# Technical Architecture:
+<img src="https://github.com/Sourav19990711/E-commerce-Website/blob/main/archi_diagram_desired-state.png" width= "400"/>
 
 ### Installation for development
 
