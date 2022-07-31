@@ -1,4 +1,5 @@
 # E-commerce Website
+Websites built on the Magento platform are search engine friendly. And a search friendly website helps customers find our site with less pain. Magento also provides the search engine friendly tools structure like sitemap, URL writer etc, that help your site become more visible to the search engines.
 
 A set of Magento rules for [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) tool.
 
