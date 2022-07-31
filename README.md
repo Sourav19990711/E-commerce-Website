@@ -67,25 +67,9 @@ Also, you can run `phpcbf` from the command-line to fix your code `MyAwesomeExte
 vendor/bin/phpcbf --standard=Magento2 app/code/MyAwesomeExtension
 ```
 
-## Contribution
 
-See the community [contribution model](https://github.com/magento/magento-coding-standard/blob/develop/.github/CONTRIBUTING.md).
 
-### Where to contribute
 
-- Documentation of existing rules. See [ExtDN PHP CodeSniffer rules for Magento 2](https://github.com/extdn/extdn-phpcs) as a good example.
-- Bug fixes and improvements of existing rules.
-- Creation of new PHP CodeSniffer rules.
-- Discussions on new rules (through periodic hangouts or discussions per GitHub issue).
-
-### How to contribute
-
-1) Start with looking into [Community Dashboard](https://github.com/magento/magento-coding-standard/projects/1). Any ticket in `Up for grabs` is a good candidate to start.
-2) Didn't satisfy your requirements? [Create one of three types of issues](https://github.com/magento/magento-coding-standard/issues/new/choose):
-   - **Bug report** - Found a bug in the code? Let us know!
-   - **Existing rule enhancement** - Know how to improve existing rules? Open an issue describe how to enhance Magento Coding Standard.
-   - **New rule proposal** - Know how to improve Magento ecosystem code quality? Do not hesitate to open a proposal.
-3) The issue will appear in the `Backlog` column of the [Community Dashboard](https://github.com/magento/magento-coding-standard/projects/1). Once it will be discussed and get `accepted` label the issue will appear in the `Up for grabs` column.
 
 ## Testing
 
